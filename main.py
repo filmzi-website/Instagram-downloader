@@ -141,4 +141,3 @@ async def health_check():
     Endpoint for a simple health check.
     """
     return {"status": "ok"}
-
